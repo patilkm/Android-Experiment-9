@@ -1,6 +1,7 @@
 # Android-Experiment-9
 Design a mobile application for media player.
 Procedure:
+
 Step 1: Create a New Project in Android Studio Step 1: Open a new android project
 After opening the Android Studio you have to create a new project using the Empty Activity with language as Java and give your project a unique name as you wish but don’t forget to keep the first alphabet capital.
 1.	Go to the top left corner and then hit File->New->New Project as shown in the following screenshot.
